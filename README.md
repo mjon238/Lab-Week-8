@@ -9,3 +9,9 @@ Next I started working on the snakes and ladders problem, while it took a couple
 Towards the end of the lab I progressed through 3.1 and 3.2. I used Google and the infosys modules to guide me through solving the problems.
 
 I should finish the lab this weekend and submit in time for the due date on Monday
+
+objects
+1) snake tile: 
+3) ladder tile
+4) dice
+5) 100th tile
